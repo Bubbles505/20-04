@@ -1,0 +1,19 @@
+div {
+   display: inline-flex;
+}
+
+#div_hora {
+    color: olive;
+}
+
+#div_minuto {
+    color: salmon;
+}
+
+#div_segundos {
+    color: blueviolet;
+}
+
+.cbxMarcarTempo{
+    color: red;
+}
